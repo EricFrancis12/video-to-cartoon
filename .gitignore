@@ -1,0 +1,14 @@
+.env
+node_modules
+
+examples/*
+
+library/my-videos/*
+library/settings-examples/*
+library/stock/images/*
+
+main/cartoon-images/*
+main/images/*
+main/input/*
+main/output/*
+main/temp/*
